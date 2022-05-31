@@ -4,7 +4,7 @@ body{text-align: center;
     color: white;
     font-size: 16px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
+
     
 
     
@@ -35,7 +35,7 @@ header{
     background-color: #7fc242;
     border-radius: 10px;
     grid-area: leftsidebar;
-    width:20vh;
+    width: 30vh;
     line-height: 25;
     height: 60vh;
 }
@@ -43,7 +43,7 @@ main{
     background-color:#8bf10a;
     border-radius: 10px;
     grid-area: main;
-    width: 60vh;
+    width: 140vh;
     text-align: center;
     height: 60vh;
     line-height:25 ;
@@ -52,7 +52,7 @@ main{
     background-color: #7fc242;
     border-radius: 10px;
     grid-area: rightsidebar;
-    width:20vh;
+    width: 30vh;
     height: 60vh;
     line-height: 25;
 
